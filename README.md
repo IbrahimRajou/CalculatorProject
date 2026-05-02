@@ -20,18 +20,16 @@ A simple desktop calculator application built using Java AWT and Swing. The appl
 ## How It Works
 - The interface is built using JFrame, JPanel, JButton, and JLabel
 - Each button has an ActionListener to handle user input
-- The program stores numbers and operations, then calculates the result when (=) is pressed
+- The program stores numbers and operations, then calculates the result when (=) button is pressed
 
 ---
 
 ## How to Run
 ### Method 1:
-Run the project using: 
-- Main.java
+Run the project using: Main.java
 
 ### Method 2:
-Run the executable file:
-- Calculator.jar
+Run the executable file: Calculator.jar
 
 ## Screenshot
 ![Calculator](Screenshot_from_the_App.png)
@@ -41,4 +39,4 @@ Run the executable file:
 ## What I Learned 
 - Building a structured desktop application using Java
 - Managing user input
-- Handling events with ActionListener
+- Handling events using ActionListener
